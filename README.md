@@ -49,7 +49,4 @@ sidiahmednejaba4@gmail.com
 
 Thank you for using Todo App Plus!
 Wishing you great productivity and better time management.
-
-
-# Push to the main branch
 git push -u origin main
