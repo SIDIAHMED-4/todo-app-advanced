@@ -4,9 +4,14 @@
 Features include light/dark mode, real-time task counter, drag-and-drop reordering, and persistent storage using `localStorage`.
 
 ---
+
+ ## 📸 Screenshots
+
+ ![App Screenshot](./images/to-do-app.png )
+
 ## 🚀 Live Demo
 
-Try the app live here: [🔗 Demo Link](https://sidiahmed-4.github.io/todo-app-advanced/)
+[🔗 Demo Link](https://sidiahmed-4.github.io/todo-app-advanced/)
 
 ---
 ## 📦 Features
